@@ -11,8 +11,8 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
-  <groupId>com.coveros.demo</groupId>
-  <artifactId>helloworld</artifactId>
+  <groupId>com.example.Application</groupId>
+  <artifactId>application</artifactId>
   <version>1.1</version>
   <packaging>jar</packaging>
 
