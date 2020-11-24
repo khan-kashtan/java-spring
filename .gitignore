@@ -9,4 +9,4 @@ logs/
 target
 venv/
 
-.dockerignore
+helloworld-1.1/
