@@ -1,4 +1,8 @@
 .idea
 out
-test-site.iml
-src
+*.iml
+src/
+*.iws
+ignite/
+logs/
+venv/
